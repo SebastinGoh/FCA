@@ -1,14 +1,10 @@
-# MSF
-Project Name
+# MSF Facebook Comments Analytics
 
-Description
+## Description
+Project on web scrapping through , sentiment analysis and topic modelling on 
 
-Table of Contents
+## Table of Contents
 
-Installation
+## Usage
 
-Usage
-
-Contributing
-
-License
+## License
